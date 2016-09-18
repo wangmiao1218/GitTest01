@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("Hello World02");
 		System.out.println("Hello World03");
 		System.out.println("Local conflict");
+		System.out.println("Github conflict");
 	}
 }
